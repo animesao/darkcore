@@ -97,4 +97,3 @@ ICoreAPI api = DarkCoreMain.getInstance().getApi();
 
 ---
 *DarkCore Engine — Твоя основа для идеального сервера.*
-# darkcore
