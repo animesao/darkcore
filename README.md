@@ -73,7 +73,7 @@
 ```xml
 <dependencies>
     <dependency>
-        <groupId>com.github.User</groupId>
+        <groupId>com.github.animesao</groupId>
         <artifactId>darkcore</artifactId>
         <version>1.1.0</version>
     </dependency>
