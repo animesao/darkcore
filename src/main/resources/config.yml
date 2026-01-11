@@ -1,0 +1,46 @@
+# Core Settings
+# -----------------
+# Database connection
+database:
+  type: "SQLITE"
+  host: "localhost"
+  port: 3306
+  user: "root"
+  password: ""
+
+# Economy settings
+economy:
+  starting_balance: 1000.0
+  currency_symbol: "$"
+
+# Chat settings
+chat:
+  format: "[%rank%] %player%: %message%"
+  enable_colors: true
+
+# Boss settings
+boss:
+  default_health: 500.0
+  announce_spawn: true
+
+# Hologram settings
+holograms:
+  default_update_ticks: 20
+
+# Combat settings
+combat:
+  tag_duration_seconds: 15
+  prevent_flight: true
+  punish_on_quit: true
+
+# Party settings
+party:
+  max_members: 5
+  share_exp: true
+
+# NPC settings
+npc:
+  show_names: true
+  interact_distance: 3.0
+
+
